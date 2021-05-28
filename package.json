@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "workspaces-example",
+  "workspaces": [
+    "packages/some-workspace",
+    "packages/a-second-workspace"
+  ],
+  "resolutions": {
+    "debug/ms": "0.7.0"
+  }
+}

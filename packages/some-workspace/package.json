@@ -1,0 +1,6 @@
+{
+  "name": "some-workspace",
+  "dependencies": {
+    "debug": "1.0.0"
+  }
+}

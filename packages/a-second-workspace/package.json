@@ -1,0 +1,6 @@
+{
+  "name": "a-second-workspace",
+  "dependencies": {
+    "express": "4.12.4"
+  }
+}
